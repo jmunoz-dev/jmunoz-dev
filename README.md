@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmunoz-dev
-- 👀 I’m interested in JAVA, JS
-- 🌱 I’m currently learning PHP, JAVA
-- 💞️ I’m looking to collaborate on ...
+- 💻 I currently work on Java, JavaScript and PHP projects.
+- 👀 I’m interested in Phyton, Groovy, Kotlin, Swift.
+- 🌱 I’m currently learning Phyton.
 - 📫 How to reach me jorge98mv@gmail.com
 
 <!---
